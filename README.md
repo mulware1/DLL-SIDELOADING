@@ -6,7 +6,7 @@ What We Need ?
 - A vulnerable location according to dll to place the malicious one there ( We Can Find It Using The Same Tool).
 
 USAGE:
-Clone the repo or download zip.
+Clone the repo or download zip. \n
 First we have to find vulnerable location and binaries.
 For OneDrive the location of OneDrive.exe is ( C:\Users\mulware\AppData\Local\Microsoft\OneDrive\OneDrive.exe )
 Open Cmd go to the Siofra location
